@@ -1,2 +1,2 @@
 # Win10XiboSetup
-A PowerShell script makes Win10 and Xibo become better friends
+A PowerShell script that makes Win10 and Xibo become better friends
