@@ -113,7 +113,7 @@ Function Default-ScreenRes {
 # Enabled HTML5 in Xibo
 #
 # This is supposed to be done when by the Xibo player installer, but it doesn't seem
-# to happen. This allow gives you the ability to pick a different version of IE.
+# to happen. This gives you the ability to use a different version of IE within Xibo.
 #
 # Values: https://msdn.microsoft.com/en-us/library/ee330730(VS.85).aspx#browser_emulation
 Function Xibo-Html5 {
